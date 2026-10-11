@@ -62,8 +62,8 @@ Two approaches were tested:
 
 | Encoding Method | R² Score |
 |-----------------|----------|
-| One-Hot Encoding | `<add your score>` |
-| Label Encoding | `<add your score>` |
+| One-Hot Encoding | `0.8396626991294073` |
+| Label Encoding | `0.7310215557391141` |
 
 > One-hot encoding is generally better suited to linear models, since label encoding imposes an artificial order on categories like `model`.
 
